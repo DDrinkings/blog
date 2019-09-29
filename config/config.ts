@@ -164,5 +164,5 @@ export default {
   */
   outputPath: 'docs',
   history: 'hash',
-  publicPath: 'http://localhost:5000/'
+  publicPath: 'http://pyl293nnp.bkt.clouddn.com/'
 } as IConfig;
