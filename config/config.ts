@@ -163,5 +163,6 @@ export default {
   },
   */
   outputPath: 'docs',
-  history: 'hash'
+  history: 'hash',
+  publicPath: 'http://localhost:5000/'
 } as IConfig;
